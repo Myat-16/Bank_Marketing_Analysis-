@@ -1,3 +1,4 @@
+# Bank Marketing Analysis
 # Data Source:https://archive.ics.uci.edu/dataset/222/bank+marketing
 ## Key Business Impacts
 1. Tracking average balances by job (management highest) allows banks to prioritize premium product offers to high-value segments.
