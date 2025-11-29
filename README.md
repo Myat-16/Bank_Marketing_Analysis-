@@ -1,5 +1,5 @@
 # Bank Marketing Analysis
-# Data Source:https://archive.ics.uci.edu/dataset/222/bank+marketing
+## Data Source:https://archive.ics.uci.edu/dataset/222/bank+marketing
 ## Key Business Impacts
 1. Tracking average balances by job (management highest) allows banks to prioritize premium product offers to high-value segments.
 2. Understanding average age for single customers helps tailor digital banking campaigns to younger demographics, boosting acquisition through targeted mobile offers.
@@ -11,7 +11,7 @@
 9. Monitoring 50+ customers' average balances by job prioritizes retirement products for high-balance professions.
 10. Examining housing+personal loan customers' average age by marital status reveals dual-debt risk patterns.
 
-### Approaches 
+## Approaches 
 1. utilized the public Kaggle dataset to explore
 + What is the average balance for customers whose job is 'management'?
 + Find the average age for all 'single' customers.
