@@ -1,5 +1,5 @@
 # Project Name: Bank Marketing Analysis
-## Data Source:https://archive.ics.uci.edu/dataset/222/bank+marketing
+### Data Source:https://archive.ics.uci.edu/dataset/222/bank+marketing
 ## Key Business Impacts
 1. Tracking average balances by job (management highest) allows banks to prioritize premium product offers to high-value segments.
 2. Understanding average age for single customers helps tailor digital banking campaigns to younger demographics, boosting acquisition through targeted mobile offers.
